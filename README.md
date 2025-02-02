@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### Master’s in Computer Science | UMass Amherst (2023-2025)
-### Machine Learning | Computer Vision | NLP (LLMs) | Research Enthusiast | Seeking Full-time Roles (2025)
+### Machine Learning | Computer Vision | NLP (LLMs) | Research Enthusiast | Seeking Full-time Roles (May 2025)
 
 I am a Master’s student at [UMass Amherst](https://www.umass.edu/), specializing in Machine Learning, Computer Vision, and NLP, with a passion for applying these technologies to solve real-world problems. My coursework includes Advanced NLP, Reinforcement Learning, and Secure Distributed Systems, alongside various research-driven projects.
 
